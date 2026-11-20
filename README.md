@@ -1,4 +1,12 @@
 Cifrador de archivos
+«⚠️ AVISO: SOFTWARE EXPERIMENTAL
+
+Esta aplicación se encuentra en una fase temprana de desarrollo. No se recomienda utilizarla para cifrar información importante o archivos cuya pérdida pueda causar problemas. Se recomienda realizar pruebas con copias de archivos.»
+
+«⚠️ AVISO: LIMITACIONES ACTUALES
+
+El programa procesa los archivos en memoria RAM. Por ello, el cifrado de carpetas o archivos de gran tamaño puede consumir mucha memoria y provocar errores. Además, seleccionar archivos con nombres idénticos desde distintas ubicaciones puede generar conflictos.»
+
 
 Cifrador de archivos es una aplicación gratuita desarrollada en Python que permite proteger archivos y carpetas mediante cifrado AES-256-GCM.
 
